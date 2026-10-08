@@ -300,3 +300,7 @@ img { max-width:100%; }
 @media(max-width:600px){.fx-circle{display:none!important}}
 
 .button-primary,.about-badge{color:#131d21!important}.form-card p,.form-card label{color:#465760!important}
+
+@media(max-width:600px){[data-parallax-stage]>.fx-circle,.hero .fx-circle,.hero-inner .fx-circle,.hero-form-wrap .fx-circle{display:none!important}}
+
+.content-section .eyebrow{color:#9d4100!important}

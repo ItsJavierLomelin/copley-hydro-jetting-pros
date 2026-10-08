@@ -162,7 +162,7 @@
   },
   "pages": {
     "grease-and-sludge": {
-      "h1": "Grease and Sludge in Copley, OH",
+      "h1": "Grease and Sludge Hydro Jetting in Copley, OH",
       "title": "Grease and Sludge | Copley Hydro Jetting Pros",
       "desc": "Kitchen use can leave deposits that keep narrowing a suitable line. Drain assessment and hydro jetting requests in Copley.",
       "intro": "A slow sink does not prove grease is the cause. Report what the sink handles and whether other fixtures react before choosing a cleaning method. The township describes Montrose as a retail and commercial neighborhood in its northern quadrant.",
@@ -196,7 +196,7 @@
       ]
     },
     "tree-root-intrusions": {
-      "h1": "Tree Root Intrusions in Copley, OH",
+      "h1": "Copley Tree Root Drain Cleaning",
       "title": "Tree Root Intrusions | Copley Hydro Jetting Pros",
       "desc": "Roots require an assessment of the opening that allowed them into the pipe. Drain assessment and hydro jetting requests in Copley.",
       "intro": "Visible trees are not proof of roots inside a drain. Camera findings and the location of a joint or defect are more useful than guessing from the landscaping. Copley describes residential growth since the 1990s, multifamily units and a commercial area in Heritage Woods.",
@@ -230,7 +230,7 @@
       ]
     },
     "recurring-clogs": {
-      "h1": "Recurring Clogs in Copley, OH",
+      "h1": "Hydro Jetting for Recurring Clogs in Copley",
       "title": "Recurring Clogs | Copley Hydro Jetting Pros",
       "desc": "A recurring blockage deserves a record of what previous cleaning did and did not establish. Drain assessment and hydro jetting requests in Copley.",
       "intro": "Describe how long flow improved after the last cleaning. Note which fixtures reacted first and whether the same pattern returned or the symptom changed. The township describes Stony Hill's residential subdivisions and development since the early 2000s.",
@@ -264,7 +264,7 @@
       ]
     },
     "mineral-buildup": {
-      "h1": "Mineral Buildup in Copley, OH",
+      "h1": "Mineral Buildup in Copley Drains: Assess the Line",
       "title": "Mineral Buildup | Copley Hydro Jetting Pros",
       "desc": "Deposits should be identified before a method is chosen. Drain assessment and hydro jetting requests in Copley.",
       "intro": "A narrowing drain may involve deposits, debris or a structural problem. An inspection should distinguish them rather than infer mineral buildup from the water supply or the street address. Copley describes Foxtail as small residential developments and large open parcels.",
@@ -298,7 +298,7 @@
       ]
     },
     "preventative-maintenance": {
-      "h1": "Preventative Maintenance in Copley, OH",
+      "h1": "Copley Preventative Hydro Jetting Services",
       "title": "Preventative Maintenance | Copley Hydro Jetting Pros",
       "desc": "Drain maintenance should follow actual use and inspection findings rather than a neighborhood-wide timetable. Drain assessment and hydro jetting requests in Copley.",
       "intro": "Keep records of prior blockages, accessible cleanouts and changes in occupancy or building use. Those details help make a maintenance discussion specific to the property. The township describes residential allotments and large open lots in the Meadows of Copley.",
@@ -472,7 +472,14 @@
           "h": "Drain cleaning around Montrose",
           "ps": [
             "The township describes Montrose as a retail and commercial neighborhood in its northern quadrant.",
-            "This page covers a commercial properties and access coordination inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a commercial properties and access coordination inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A commercial drain during building operations",
+          "ps": [
+            "Copley identifies retail and commercial development in Montrose. A business request should include the fixtures involved, building access and the manager who can approve work. If several tenants share space, clarify maintenance responsibility before arranging cleaning beyond one unit."
           ]
         },
         {
@@ -518,6 +525,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The township describes Montrose as a retail and commercial neighborhood in its northern quadrant. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a commercial drain during building operations?",
+          "a": "Copley identifies retail and commercial development in Montrose. A business request should include the fixtures involved, building access and the manager who can approve work. If several tenants share space, clarify maintenance responsibility before arranging cleaning beyond one unit."
         }
       ],
       "cta": "Request Hydro Jetting near Montrose",
@@ -526,7 +537,7 @@
     {
       "slug": "heritage-woods",
       "name": "Heritage Woods",
-      "h1": "Hydro Jetting in Heritage Woods, Copley, OH",
+      "h1": "Hydro Jetting in Heritage Woods, Copley, OH: Drain Planning",
       "title": "Heritage Woods Hydro Jetting | Copley Hydro Jetting Pros",
       "description": "Drain-planning advice for Heritage Woods in Copley, Ohio, with inspection questions and a service request form.",
       "intro": "Copley describes residential growth since the 1990s, multifamily units and a commercial area in Heritage Woods.",
@@ -536,7 +547,14 @@
           "h": "Drain cleaning around Heritage Woods",
           "ps": [
             "Copley describes residential growth since the 1990s, multifamily units and a commercial area in Heritage Woods.",
-            "This page covers a multifamily and residential management inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a multifamily and residential management inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "Multifamily access and separate units",
+          "ps": [
+            "The township describes multifamily units as well as subdivisions and commercial uses in Heritage Woods. If one unit reports a problem, ask whether adjoining units have symptoms too. A manager may need to coordinate entry and verify whether the affected branch is private to the unit or part of a common connection."
           ]
         },
         {
@@ -582,6 +600,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "Copley describes residential growth since the 1990s, multifamily units and a commercial area in Heritage Woods. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about multifamily access and separate units?",
+          "a": "The township describes multifamily units as well as subdivisions and commercial uses in Heritage Woods. If one unit reports a problem, ask whether adjoining units have symptoms too. A manager may need to coordinate entry and verify whether the affected branch is private to the unit or part of a common connection."
         }
       ],
       "cta": "Request Hydro Jetting near Heritage Woods",
@@ -590,7 +612,7 @@
     {
       "slug": "stony-hill",
       "name": "Stony Hill",
-      "h1": "Hydro Jetting in Stony Hill, Copley, OH",
+      "h1": "Hydro Jetting in Stony Hill, Copley, OH | For Homeowners",
       "title": "Stony Hill Hydro Jetting | Copley Hydro Jetting Pros",
       "description": "Drain-planning advice for Stony Hill in Copley, Ohio, with inspection questions and a service request form.",
       "intro": "The township describes Stony Hill's residential subdivisions and development since the early 2000s.",
@@ -600,7 +622,14 @@
           "h": "Drain cleaning around Stony Hill",
           "ps": [
             "The township describes Stony Hill's residential subdivisions and development since the early 2000s.",
-            "This page covers a subdivision properties inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a subdivision properties inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "Subdivision age versus the current pipe",
+          "ps": [
+            "Residential growth since the early 2000s is documented for Stony Hill. That development period is not an inspection of the drain at a particular house. Use actual repair records and findings, especially if landscaping or additions changed access to the cleanout."
           ]
         },
         {
@@ -646,6 +675,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The township describes Stony Hill's residential subdivisions and development since the early 2000s. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about subdivision age versus the current pipe?",
+          "a": "Residential growth since the early 2000s is documented for Stony Hill. That development period is not an inspection of the drain at a particular house. Use actual repair records and findings, especially if landscaping or additions changed access to the cleanout."
         }
       ],
       "cta": "Request Hydro Jetting near Stony Hill",
@@ -654,7 +687,7 @@
     {
       "slug": "foxtail",
       "name": "Foxtail",
-      "h1": "Hydro Jetting in Foxtail, Copley, OH",
+      "h1": "Hydro Jetting in Foxtail, Copley, OH: Assess the Line",
       "title": "Foxtail Hydro Jetting | Copley Hydro Jetting Pros",
       "description": "Drain-planning advice for Foxtail in Copley, Ohio, with inspection questions and a service request form.",
       "intro": "Copley describes Foxtail as small residential developments and large open parcels.",
@@ -664,7 +697,14 @@
           "h": "Drain cleaning around Foxtail",
           "ps": [
             "Copley describes Foxtail as small residential developments and large open parcels.",
-            "This page covers a open-parcel access inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a open-parcel access inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "Open parcels and a wastewater connection",
+          "ps": [
+            "Copley describes small residential developments and large open parcels in Foxtail. A request needs the actual wastewater system serving the building, not an assumption that every parcel connects in the same way. Describe where wastewater goes according to known records and distinguish that from yard drainage."
           ]
         },
         {
@@ -710,6 +750,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "Copley describes Foxtail as small residential developments and large open parcels. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about open parcels and a wastewater connection?",
+          "a": "Copley describes small residential developments and large open parcels in Foxtail. A request needs the actual wastewater system serving the building, not an assumption that every parcel connects in the same way. Describe where wastewater goes according to known records and distinguish that from yard drainage."
         }
       ],
       "cta": "Request Hydro Jetting near Foxtail",
@@ -718,7 +762,7 @@
     {
       "slug": "meadows-of-copley",
       "name": "Meadows of Copley",
-      "h1": "Hydro Jetting in Meadows of Copley, Copley, OH",
+      "h1": "Hydro Jetting in Meadows of Copley, Copley, OH | For Property Managers",
       "title": "Meadows of Copley Hydro Jetting | Copley Hydro Jetting Pros",
       "description": "Drain-planning advice for Meadows of Copley in Copley, Ohio, with inspection questions and a service request form.",
       "intro": "The township describes residential allotments and large open lots in the Meadows of Copley.",
@@ -728,7 +772,14 @@
           "h": "Drain cleaning around Meadows of Copley",
           "ps": [
             "The township describes residential allotments and large open lots in the Meadows of Copley.",
-            "This page covers a property-specific wastewater connections inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a property-specific wastewater connections inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "Allotments and individual drain records",
+          "ps": [
+            "Residential allotments and larger open lots are documented in Meadows of Copley. Explain the building\u2019s current drain route if known and whether access lies in managed or shared space. A broad neighborhood description does not establish sewer ownership or identify the obstruction."
           ]
         },
         {
@@ -774,6 +825,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The township describes residential allotments and large open lots in the Meadows of Copley. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about allotments and individual drain records?",
+          "a": "Residential allotments and larger open lots are documented in Meadows of Copley. Explain the building\u2019s current drain route if known and whether access lies in managed or shared space. A broad neighborhood description does not establish sewer ownership or identify the obstruction."
         }
       ],
       "cta": "Request Hydro Jetting near Meadows of Copley",
@@ -782,17 +837,24 @@
     {
       "slug": "creekstone",
       "name": "Creekstone",
-      "h1": "Hydro Jetting in Creekstone, Copley, OH",
+      "h1": "Hydro Jetting in Creekstone, Copley, OH: Cleaning Options",
       "title": "Creekstone Hydro Jetting | Copley Hydro Jetting Pros",
       "description": "Drain-planning advice for Creekstone in Copley, Ohio, with inspection questions and a service request form.",
-      "intro": "Creekstone has its own page in the township's neighborhood master plan.",
+      "intro": "The township identifies Creekstone as a residential-development pocket in northwestern Copley, bounded by SR 21 on the east.",
       "hero": "Hydro jetting near Creekstone can remove buildup when the actual pipe is suitable. Creekstone has its own page in the township's neighborhood master plan. Start with separate wastewater from runoff and the history of the affected drain, not an assumption based on the surrounding buildings.",
       "body": [
         {
           "h": "Drain cleaning around Creekstone",
           "ps": [
             "Creekstone has its own page in the township's neighborhood master plan.",
-            "This page covers a documented township neighborhood inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a documented township neighborhood inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A planned development and access permissions",
+          "ps": [
+            "The township identifies Creekstone as a residential development in a pocket between neighboring areas. If an access point is in common space, obtain permission from the responsible manager before arranging inspection. Association context does not itself identify who maintains a particular pipe; records should settle that question."
           ]
         },
         {
@@ -838,6 +900,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "Creekstone has its own page in the township's neighborhood master plan. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a planned development and access permissions?",
+          "a": "The township identifies Creekstone as a residential development in a pocket between neighboring areas. If an access point is in common space, obtain permission from the responsible manager before arranging inspection. Association context does not itself identify who maintains a particular pipe; records should settle that question."
         }
       ],
       "cta": "Request Hydro Jetting near Creekstone",
@@ -846,17 +912,24 @@
     {
       "slug": "the-lakes",
       "name": "The Lakes",
-      "h1": "Hydro Jetting in The Lakes, Copley, OH",
+      "h1": "Hydro Jetting in The Lakes, Copley, OH | Drain Care",
       "title": "The Lakes Hydro Jetting | Copley Hydro Jetting Pros",
       "description": "Drain-planning advice for The Lakes in Copley, Ohio, with inspection questions and a service request form.",
-      "intro": "The township lists The Lakes as a neighborhood in its master plan.",
+      "intro": "Copley describes The Lakes as residential development across the northwest and southwest portions of the township.",
       "hero": "Hydro jetting near The Lakes can remove buildup when the actual pipe is suitable. The township lists The Lakes as a neighborhood in its master plan. Start with keep a useful closeout and the history of the affected drain, not an assumption based on the surrounding buildings.",
       "body": [
         {
           "h": "Drain cleaning around The Lakes",
           "ps": [
             "The township lists The Lakes as a neighborhood in its master plan.",
-            "This page covers a documented residential neighborhood inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a documented residential neighborhood inside Copley. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "Water near a property is not a drain diagnosis",
+          "ps": [
+            "The township describes residential development in The Lakes across portions of western Copley. If water appears after rain, say whether it comes from a fixture, a yard drain or another outdoor location. The neighborhood name does not prove lake water, groundwater or a sanitary blockage is the cause."
           ]
         },
         {
@@ -902,6 +975,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The township lists The Lakes as a neighborhood in its master plan. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about water near a property is not a drain diagnosis?",
+          "a": "The township describes residential development in The Lakes across portions of western Copley. If water appears after rain, say whether it comes from a fixture, a yard drain or another outdoor location. The neighborhood name does not prove lake water, groundwater or a sanitary blockage is the cause."
         }
       ],
       "cta": "Request Hydro Jetting near The Lakes",

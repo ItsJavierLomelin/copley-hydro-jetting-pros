@@ -1,0 +1,32 @@
+# Copley Hydro Jetting Pros
+
+> Copley's neighborhood plan distinguishes Montrose's commercial development from residential allotments and open parcels elsewhere in the township. For each request, confirm the building's wastewater connection and the person responsible for the private line rather than assuming one system serves all of Copley.
+
+## Services
+
+- [Hydro Jetting for Grease and Sludge](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/services/grease-and-sludge/)
+- [Hydro Jetting for Tree Root Intrusions](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/services/tree-root-intrusions/)
+- [Hydro Jetting for Recurring Clogs](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/services/recurring-clogs/)
+- [Hydro Jetting for Mineral Buildup](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/services/mineral-buildup/)
+- [Hydro Jetting for Preventative Maintenance](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/services/preventative-maintenance/)
+
+## Guides
+
+- [How Hydro Jetting Works](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/guides/how-hydro-jetting-works/)
+- [Hydro Jetting vs Snaking](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/guides/hydro-jetting-vs-snaking/)
+
+## Neighborhoods
+
+- [Montrose](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/montrose/)
+- [Heritage Woods](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/heritage-woods/)
+- [Stony Hill](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/stony-hill/)
+- [Foxtail](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/foxtail/)
+- [Meadows of Copley](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/meadows-of-copley/)
+- [Creekstone](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/creekstone/)
+- [The Lakes](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/the-lakes/)
+
+## Site
+
+- [Home](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/)
+- [Request Service](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/contact/)
+- [Sitemap](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/sitemap.xml)

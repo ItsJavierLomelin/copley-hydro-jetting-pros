@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/sitemap.xml

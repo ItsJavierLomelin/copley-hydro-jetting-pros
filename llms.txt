@@ -4,29 +4,29 @@
 
 ## Services
 
-- [Hydro Jetting for Grease and Sludge](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/services/grease-and-sludge/)
-- [Hydro Jetting for Tree Root Intrusions](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/services/tree-root-intrusions/)
-- [Hydro Jetting for Recurring Clogs](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/services/recurring-clogs/)
-- [Hydro Jetting for Mineral Buildup](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/services/mineral-buildup/)
-- [Hydro Jetting for Preventative Maintenance](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/services/preventative-maintenance/)
+- [Hydro Jetting for Grease and Sludge](https://copleyhydrojetting.prosapp.site/services/grease-and-sludge/)
+- [Hydro Jetting for Tree Root Intrusions](https://copleyhydrojetting.prosapp.site/services/tree-root-intrusions/)
+- [Hydro Jetting for Recurring Clogs](https://copleyhydrojetting.prosapp.site/services/recurring-clogs/)
+- [Hydro Jetting for Mineral Buildup](https://copleyhydrojetting.prosapp.site/services/mineral-buildup/)
+- [Hydro Jetting for Preventative Maintenance](https://copleyhydrojetting.prosapp.site/services/preventative-maintenance/)
 
 ## Guides
 
-- [How Hydro Jetting Works](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/guides/how-hydro-jetting-works/)
-- [Hydro Jetting vs Snaking](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/guides/hydro-jetting-vs-snaking/)
+- [How Hydro Jetting Works](https://copleyhydrojetting.prosapp.site/guides/how-hydro-jetting-works/)
+- [Hydro Jetting vs Snaking](https://copleyhydrojetting.prosapp.site/guides/hydro-jetting-vs-snaking/)
 
 ## Neighborhoods
 
-- [Montrose](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/montrose/)
-- [Heritage Woods](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/heritage-woods/)
-- [Stony Hill](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/stony-hill/)
-- [Foxtail](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/foxtail/)
-- [Meadows of Copley](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/meadows-of-copley/)
-- [Creekstone](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/creekstone/)
-- [The Lakes](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/neighborhood/the-lakes/)
+- [Montrose](https://copleyhydrojetting.prosapp.site/neighborhood/montrose/)
+- [Heritage Woods](https://copleyhydrojetting.prosapp.site/neighborhood/heritage-woods/)
+- [Stony Hill](https://copleyhydrojetting.prosapp.site/neighborhood/stony-hill/)
+- [Foxtail](https://copleyhydrojetting.prosapp.site/neighborhood/foxtail/)
+- [Meadows of Copley](https://copleyhydrojetting.prosapp.site/neighborhood/meadows-of-copley/)
+- [Creekstone](https://copleyhydrojetting.prosapp.site/neighborhood/creekstone/)
+- [The Lakes](https://copleyhydrojetting.prosapp.site/neighborhood/the-lakes/)
 
 ## Site
 
-- [Home](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/)
-- [Request Service](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/contact/)
-- [Sitemap](https://itsjavierlomelin.github.io/copley-hydro-jetting-pros/sitemap.xml)
+- [Home](https://copleyhydrojetting.prosapp.site/)
+- [Request Service](https://copleyhydrojetting.prosapp.site/contact/)
+- [Sitemap](https://copleyhydrojetting.prosapp.site/sitemap.xml)
